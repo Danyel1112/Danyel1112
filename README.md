@@ -13,3 +13,6 @@ Atualmente, estou iniciando minha carreira na área de programação. 
 
 
 <br/> Sempre em busca de novos desafios 💪
+
+
+![snake.gif](https://github.com/Danyel1112/Danyel1112/blob/output/github-contribuition-grid-snake.svg)
